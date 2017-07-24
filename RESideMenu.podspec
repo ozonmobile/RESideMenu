@@ -1,4 +1,4 @@
-d::Spec.new do |s|
+Pod::Spec.new do |s|
   s.name        = 'RESideMenu'
   s.version     = '4.0.7'
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
